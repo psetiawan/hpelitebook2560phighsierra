@@ -1,4 +1,4 @@
-# hpelitebook2560phighsierra
+# HP Elitebook 2560p High Sierra
 Clover Configuration for config.plist, kext, acpi patch for HP Elitebook 2560p High Sierra
 
 this is clover configuration bundle for HP Elitebook 2560p

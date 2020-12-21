@@ -5,6 +5,7 @@ this is clover configuration bundle for HP Elitebook 2560p
 
 ## Specification
 HP Elitebook 2560p
+- Intel Core i5-2540M Sandy Bridge 2nd Gen
 - Chipset Mobile Intel QM67 Express chipset
 - Graphics Intel HD Graphics 3000
 - Display 12.5-inch

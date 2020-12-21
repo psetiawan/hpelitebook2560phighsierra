@@ -31,4 +31,7 @@ Notes :
 - Bluetooth lost after sleep
 - please generate your own unique SMBIOS ID
 
-
+(https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled1.jpeg)
+(https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled2.jpeg)
+(https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled3.jpeg)
+(https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled4.jpeg)

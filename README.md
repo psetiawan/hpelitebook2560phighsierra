@@ -10,14 +10,14 @@ Graphics Intel HD Graphics 3000
 Display 12.5-inch
 
 Confirm Work :
-Bluetooth
-LAN
-Volume Control
-Graphics (native support)
-Display (brightness control)
-ACPI Battery Status
-Sound
-Trackpad (small trackpad at this laptop)
+- Bluetooth
+- LAN
+- Volume Control
+- Graphics (native support)
+- Display (native res & brightness control)
+- Battery Status
+- Sound
+- Trackpad (small trackpad at this laptop)
 
 All Work except intel wifi (i use usb dongle TP Link WN725n)
 

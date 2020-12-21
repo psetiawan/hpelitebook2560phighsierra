@@ -30,9 +30,12 @@ https://www.tonymacx86.com/threads/guide-hp-probook-elitebook-zbook-using-clover
 Notes :
 - Bluetooth lost after sleep
 - please generate your own unique SMBIOS ID
+- also do disable hibernate according to guide
+
+
 
 ![Image 1](https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled1.jpeg)
 ![Image 2](https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled2.jpeg)
 ![Image 3](https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled3.jpeg)
 ![Image 4](https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled4.jpeg)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+

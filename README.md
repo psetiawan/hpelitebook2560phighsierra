@@ -27,6 +27,12 @@ OS : High Sierra 10.13.6 (Olarila torrent version)
 Build based on RehabMan [Guide] HP ProBook/EliteBook/Zbook using Clover UEFI hotpatch 
 https://www.tonymacx86.com/threads/guide-hp-probook-elitebook-zbook-using-clover-uefi-hotpatch.261719/
 
+## Important Files :
+- clover/config.plist
+- clover/acpi/patched/*
+- clover/kexts/other/ACPIBatteryManager.kext
+
+other files come from olarila installer
 
 ## Notes :
 - Bluetooth lost after sleep

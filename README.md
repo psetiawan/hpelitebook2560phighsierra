@@ -38,7 +38,7 @@ other files come from olarila installer
 - Bluetooth lost after sleep
 - please generate your own unique SMBIOS ID
 - also do disable hibernate according to guide
-
+- Increase VRAM Intel HD 3000 : https://github.com/ipang-dwi/ihd3000
 
 
 ![Image 1](https://raw.githubusercontent.com/psetiawan/hpelitebook2560phighsierra/main/assets/Untitled1.jpeg)
